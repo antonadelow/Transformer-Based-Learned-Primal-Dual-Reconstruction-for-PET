@@ -1,6 +1,6 @@
 # Transformer-Based-Learned-Primal-Dual-Reconstruction-for-PET
 
-Code used for the Master Thesis Transformer-Based Learned
+Code used in the Master Thesis Transformer-Based Learned
 Primal-Dual Reconstruction for PET.
 
 Positron Emission Tomography (PET) is a medical imaging technique that
