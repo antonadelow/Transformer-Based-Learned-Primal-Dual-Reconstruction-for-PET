@@ -1,8 +1,5 @@
 # Transformer-Based-Learned-Primal-Dual-Reconstruction-for-PET
 
-Code used in the Master Thesis Transformer-Based Learned
-Primal-Dual Reconstruction for PET.
-
 Positron Emission Tomography (PET) is a medical imaging technique that
 involves injecting a short-lived radioactive tracer, chemically bound to a
 biologically active molecule, into a subject in order to measure cellular
